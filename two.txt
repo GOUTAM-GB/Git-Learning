@@ -1,4 +1,3 @@
 This is my first text file.
-
 Add another file to folder and commit it.
 new message for this file.
